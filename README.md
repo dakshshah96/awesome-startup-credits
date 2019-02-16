@@ -11,3 +11,4 @@ A collection of awesome companies offering free plans for eligible startups.
 ### Cloud Computing
 
 - [Hatch by DigitalOcean](https://www.digitalocean.com/hatch/) - Hatch helps developers create, launch, and scale their startups. This includes a range of perks to get you started, including 12 months of DigitalOcean credit to easily deploy and scale your infrastructure.
+- [AWS Activate](https://aws.amazon.com/activate/) - The AWS Activate program provides startups with the resources they need to quickly get started on AWS – including credits, training, and support.
