@@ -16,6 +16,8 @@ A collection of awesome companies offering free plans for eligible startups.
 - [Miscellaneous](#miscellaneous)
 
 ### Business Suites
+
+- [Zoho One for Startups](https://www.zoho.com/one/startups.html) - Zoho One is a bundle of 40 different applications, for both web and mobile. You can pick any of the apps from this assorted suite, and be business sorted.
   
 ### Cloud Computing
 
