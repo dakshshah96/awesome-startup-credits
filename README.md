@@ -11,6 +11,7 @@ A collection of awesome companies offering free plans for eligible startups.
 - [Cloud Telephony](#cloud-telephony)
 - [Email Delivery](#email-delivery)
 - [Payments](#payments)
+- [Marketing and Sales](#marketing-and-sales)
 - [Miscellaneous](#miscellaneous)
   
 ### Cloud Computing
@@ -43,6 +44,8 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Payments
 
 - [Razorpay [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments.
+
+### Marketing and Sales
 
 ### Miscellaneous
 
