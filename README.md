@@ -37,3 +37,5 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Twilio for Startups](https://ahoy.twilio.com/startup) - Twilio has partnered with a variety of accelerators to provide Twilio credits for participating startups.
 
 ### Hardware
+
+- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
