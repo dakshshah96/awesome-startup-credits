@@ -8,8 +8,8 @@ A collection of awesome companies offering free plans for eligible startups.
 
 - [Cloud Computing](#cloud-computing)
 - [Cloud Database](#cloud-database)
-- [Email Delivery](#email-delivery)
 - [Cloud Telephony](#cloud-telephony)
+- [Email Delivery](#email-delivery)
 - [Hardware](#hardware)
   
 ### Cloud Computing
@@ -26,11 +26,6 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [MongoDB Startup Accelerator](https://www.mongodb.com/startup-accelerator) - The MongoDB Startup Accelerator offers access to MongoDB Atlas, the fully-managed global cloud database, and support to help startups build and scale their businesses.
 - [ScaleGrid Startup Program](https://scalegrid.io/pricing/offers/startup-program.html) - Save up to $30,000 for a year with 90% off on ScaleGrid's MongoDB, Redis, MySQL and PostgreSQL 'Bring Your Own Cloud' database management plans.
 
-### Email Delivery
-
-- [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
-- [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
-
 ### Cloud Telephony
 
 - [Knowlarity for Startups](https://www.knowlarity.com/startups/) - Unicorn dreams? Knowlarity is happy to offer its communications suite products — SuperReceptionist and SuperConference free of cost for 6 months.
@@ -38,6 +33,11 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [MyOperator for Startups [INDIA ONLY]](https://myoperator.co/startup-program) - MyOperator’s Startup Program will transform the way you and your team communicates with leads and customers. India’s first end-to-end call management solution comes with exclusive startup program products & features.
 - [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
 - [MSG91 for Startups [INDIA ONLY]](https://msg91.com/startups/) - A startup for startups. Grow your startup with MSG91's SMS for startups. First few transactional bulk SMS free every month.
+
+### Email Delivery
+
+- [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
+- [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
 
 ### Hardware
 
