@@ -47,6 +47,8 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 ### Marketing and Sales
 
+- [HubSpot](https://www.hubspot.com/startups) - Discover how HubSpot can help your startup grow with their CRM, sales, marketing, and customer service software, plus education and support.
+
 ### Miscellaneous
 
 - [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
