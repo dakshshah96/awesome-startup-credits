@@ -77,11 +77,13 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 - [Intercom for Early Stage](https://www.intercom.com/early-stage) - Intercom’s user-friendly products help you acquire, onboard, engage and support your customers in a personal way. Eligible companies get all of Intercom's pro products for a flat rate of $49 a month for up to one year.
 
+### Hardware Development
+- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
+- [Autodesk Fusion 360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists) - CAD software for startups and hobbyist. If your entitlement has been designated as “Startup, ” You may use the service if You are (a) a company, startup, or home-based business that generates less than $100,000 (or equivalent in other currency) per year from the total sale of goods or services, or (b) an individual using the service for personal non-commercial projects, hobbies, or personal learning.
+
 ### Miscellaneous
 
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
-- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
-- [Autodesk Fusion 360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists) - CAD software for startups and hobbyist. If your entitlement has been designated as “Startup, ” You may use the service if You are (a) a company, startup, or home-based business that generates less than $100,000 (or equivalent in other currency) per year from the total sale of goods or services, or (b) an individual using the service for personal non-commercial projects, hobbies, or personal learning.
 - [MathWorks](https://in.mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price.
 
 ## Contributing
