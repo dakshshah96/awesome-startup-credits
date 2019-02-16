@@ -11,6 +11,7 @@ A collection of awesome companies offering free plans for eligible startups.
 - [Cloud Telephony](#cloud-telephony)
 - [Email Delivery](#email-delivery)
 - [Hardware](#hardware)
+- [Payments](#payments)
   
 ### Cloud Computing
 
@@ -42,3 +43,5 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Hardware
 
 - [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
+
+### Payments
