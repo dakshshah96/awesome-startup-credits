@@ -36,6 +36,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Knowlarity for Startups](https://www.knowlarity.com/startups/) - Unicorn dreams? Knowlarity is happy to offer its communications suite products — SuperReceptionist and SuperConference free of cost for 6 months.
 - [Twilio for Startups](https://ahoy.twilio.com/startup) - Twilio has partnered with a variety of accelerators to provide Twilio credits for participating startups.
 - [MyOperator for Startups [INDIA ONLY]](https://myoperator.co/startup-program) - MyOperator’s Startup Program will transform the way you and your team communicates with leads and customers. India’s first end-to-end call management solution comes with exclusive startup program products & features.
+- [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
 
 ### Hardware
 
