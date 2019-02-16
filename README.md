@@ -25,6 +25,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Analytics
 
 - [Mixpanel for Startups](https://mixpanel.com/startups/) - With access to Mixpanel’s most advanced features, startups can do complex behavioral analysis in seconds and  collaborate across teams to unlock faster growth.
+- [Segment Startup Program](https://segment.com/industry/startups/) - Eligible startups get full access to Segment's Team Plan (up to $25,000 value) free for up to two years.
 
 ### Business Suites
 
