@@ -45,3 +45,5 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
 
 ### Payments
+
+- [Razorpay [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments.
