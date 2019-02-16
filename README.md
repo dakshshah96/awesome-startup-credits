@@ -10,8 +10,8 @@ A collection of awesome companies offering free plans for eligible startups.
 - [Cloud Database](#cloud-database)
 - [Cloud Telephony](#cloud-telephony)
 - [Email Delivery](#email-delivery)
-- [Hardware](#hardware)
 - [Payments](#payments)
+- [Miscellaneous](#miscellaneous)
   
 ### Cloud Computing
 
@@ -40,10 +40,10 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
 - [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
 
-### Hardware
-
-- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
-
 ### Payments
 
 - [Razorpay [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments.
+
+### Miscellaneous
+
+- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
