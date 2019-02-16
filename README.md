@@ -16,6 +16,7 @@ A collection of awesome companies offering free plans for eligible startups.
 - [Startup with IBM](https://developer.ibm.com/startups/) - With $120,000 in free IBM Cloud credits, Startup with IBM can 
 put your business on the path to transformative growth. Disrupt your industry with IBM.
 - [Google Cloud for Startups](https://cloud.google.com/developers/startups/) - Get up and running quickly and easily with mentorship, training, and Cloud credits from the Google Cloud for Startups program.
+- [Microsoft for Startups](https://startups.microsoft.com/en-us/) - Over the next two years, Microsoft has pledged 500 million dollars to support startups with access to technology, community spaces, and sales opportunities.
 
 ### Email Delivery
 
