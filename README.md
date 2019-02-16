@@ -7,6 +7,7 @@ A collection of awesome companies offering free plans for eligible startups.
 ## Contents
 
 - [Advertising](#advertising)
+- [Analytics](#analytics)
 - [Business Suites](#business-suites)
 - [Cloud Computing](#cloud-computing)
 - [Cloud Database](#cloud-database)
@@ -19,6 +20,10 @@ A collection of awesome companies offering free plans for eligible startups.
 ### Advertising
 
 - [Snap Accelerate](https://developers.snapchat.com/accelerate/) - Snap Accelerate provides companies with the resources and support they need to scale their marketing and customer acquisition strategies with Snap.
+
+### Analytics
+
+- [Mixpanel for Startups](https://mixpanel.com/startups/) - With access to Mixpanel’s most advanced features, startups can do complex behavioral analysis in seconds and  collaborate across teams to unlock faster growth.
 
 ### Business Suites
 
