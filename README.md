@@ -23,6 +23,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ### Accounting
 
+- [Pilot](https://pilot.com/partner/hn/) - Pilot is a bookkeeping company that specializes in bookkeeping for tech startups, and they're offering 20% off the first six months to early-stage startups.
+
 ### Advertising
 
 - [Snap Accelerate](https://developers.snapchat.com/accelerate/) - Snap Accelerate provides companies with the resources and support they need to scale their marketing and customer acquisition strategies with Snap.
