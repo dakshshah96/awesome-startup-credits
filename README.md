@@ -25,3 +25,5 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
 
 ### Cloud Telephony
+
+- [Knowlarity for Startups](https://www.knowlarity.com/startups/) - Unicorn dreams? Knowlarity is happy to offer its communications suite products — SuperReceptionist and SuperConference free of cost for 6 months.
