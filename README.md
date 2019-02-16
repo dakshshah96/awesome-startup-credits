@@ -64,6 +64,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Payments
 
 - [Razorpay [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments.
+- [Chargebee Launch Plan](https://www.chargebee.com/launch/) - Chargebee makes managing subscription billing easier for you. With Chargebee’s Launch Plan, you get your first $50K in invoices for free.
 
 ### Marketing and Sales
 
