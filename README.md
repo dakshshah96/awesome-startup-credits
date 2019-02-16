@@ -27,3 +27,4 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Cloud Telephony
 
 - [Knowlarity for Startups](https://www.knowlarity.com/startups/) - Unicorn dreams? Knowlarity is happy to offer its communications suite products — SuperReceptionist and SuperConference free of cost for 6 months.
+- [Twilio for Startups](https://ahoy.twilio.com/startup) - Twilio has partnered with a variety of accelerators to provide Twilio credits for participating startups.
