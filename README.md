@@ -9,3 +9,5 @@ A collection of awesome companies offering free plans for eligible startups.
 - [Cloud Computing](#cloud-computing)
   
 ### Cloud Computing
+
+- [Hatch by DigitalOcean](https://www.digitalocean.com/hatch/) - Hatch helps developers create, launch, and scale their startups. This includes a range of perks to get you started, including 12 months of DigitalOcean credit to easily deploy and scale your infrastructure.
