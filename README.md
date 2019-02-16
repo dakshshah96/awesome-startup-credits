@@ -7,6 +7,7 @@ A collection of awesome companies offering free plans for eligible startups.
 ## Contents
 
 - [Cloud Computing](#cloud-computing)
+- [Email Delivery](#email-delivery)
   
 ### Cloud Computing
 
@@ -14,3 +15,5 @@ A collection of awesome companies offering free plans for eligible startups.
 - [AWS Activate](https://aws.amazon.com/activate/) - The AWS Activate program provides startups with the resources they need to quickly get started on AWS – including credits, training, and support.
 - [Startup with IBM](https://developer.ibm.com/startups/) - With $120,000 in free IBM Cloud credits, Startup with IBM can 
 put your business on the path to transformative growth. Disrupt your industry with IBM.
+
+### Email Delivery
