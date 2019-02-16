@@ -83,6 +83,10 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
 - [MathWorks](https://in.mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price.
 
+## Contributing
+
+Please feel free to make a PR if you know of any other awesome companies which offer free/discounted plans for startups. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
