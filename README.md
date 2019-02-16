@@ -37,6 +37,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Twilio for Startups](https://ahoy.twilio.com/startup) - Twilio has partnered with a variety of accelerators to provide Twilio credits for participating startups.
 - [MyOperator for Startups [INDIA ONLY]](https://myoperator.co/startup-program) - MyOperator’s Startup Program will transform the way you and your team communicates with leads and customers. India’s first end-to-end call management solution comes with exclusive startup program products & features.
 - [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
+- [MSG91 for Startups [INDIA ONLY]](https://msg91.com/startups/) - A startup for startups. Grow your startup with MSG91's SMS for startups. First few transactional bulk SMS free every month.
 
 ### Hardware
 
