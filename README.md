@@ -17,3 +17,5 @@ A collection of awesome companies offering free plans for eligible startups.
 put your business on the path to transformative growth. Disrupt your industry with IBM.
 
 ### Email Delivery
+
+- [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
