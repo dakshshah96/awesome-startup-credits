@@ -8,6 +8,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ## Contents
 
+- [Accounting](#accounting)
 - [Advertising](#advertising)
 - [Analytics](#analytics)
 - [Business Suites](#business-suites)
@@ -19,6 +20,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Marketing and Sales](#marketing-and-sales)
 - [Messaging](#messaging)
 - [Miscellaneous](#miscellaneous)
+
+### Accounting
 
 ### Advertising
 
