@@ -15,6 +15,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Email Delivery](#email-delivery)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
+- [Messaging](#messaging)
 - [Miscellaneous](#miscellaneous)
 
 ### Advertising
@@ -66,6 +67,10 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Marketing and Sales
 
 - [HubSpot](https://www.hubspot.com/startups) - Discover how HubSpot can help your startup grow with their CRM, sales, marketing, and customer service software, plus education and support.
+
+### Messaging
+
+- [Intercom for Early Stage](https://www.intercom.com/early-stage) - Intercom’s user-friendly products help you acquire, onboard, engage and support your customers in a personal way. Eligible companies get all of Intercom's pro products for a flat rate of $49 a month for up to one year.
 
 ### Miscellaneous
 
