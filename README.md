@@ -15,6 +15,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Cloud Database](#cloud-database)
 - [Cloud Telephony](#cloud-telephony)
 - [Email Delivery](#email-delivery)
+- [Hardware Development](#hardware-development)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
 - [Messaging](#messaging)
