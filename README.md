@@ -1,6 +1,7 @@
 # Awesome Startup Credits [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20Awesome%20Startup%20Credits%E2%80%94A%20collection%20of%20awesome%20companies%20offering%20free/discounted%20plans%20for%20eligible%20startups!%20https%3A//github.com/dakshshah96/awesome-startup-credits)
+[Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20Awesome%20Startup%20Credits%E2%80%94A%20collection%20of%20awesome%20companies%20offering%20free/discounted%20plans%20for%20eligible%20startups!%20https%3A//github.com/dakshshah96/awesome-startup-credits) | [Buy Me A Coffee](https://www.buymeacoffee.com/dakshshah96)
+
 
 A collection of awesome companies offering free/discounted plans for eligible startups.
 
