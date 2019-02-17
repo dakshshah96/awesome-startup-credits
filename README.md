@@ -63,6 +63,10 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
 - [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
 
+### Hardware Development
+- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
+- [Autodesk Fusion 360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists) - CAD software for startups and hobbyist. If your entitlement has been designated as “Startup, ” You may use the service if You are (a) a company, startup, or home-based business that generates less than $100,000 (or equivalent in other currency) per year from the total sale of goods or services, or (b) an individual using the service for personal non-commercial projects, hobbies, or personal learning.
+
 ### Payments
 
 - [Razorpay [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments.
@@ -76,10 +80,6 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Messaging
 
 - [Intercom for Early Stage](https://www.intercom.com/early-stage) - Intercom’s user-friendly products help you acquire, onboard, engage and support your customers in a personal way. Eligible companies get all of Intercom's pro products for a flat rate of $49 a month for up to one year.
-
-### Hardware Development
-- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
-- [Autodesk Fusion 360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists) - CAD software for startups and hobbyist. If your entitlement has been designated as “Startup, ” You may use the service if You are (a) a company, startup, or home-based business that generates less than $100,000 (or equivalent in other currency) per year from the total sale of goods or services, or (b) an individual using the service for personal non-commercial projects, hobbies, or personal learning.
 
 ### Miscellaneous
 
