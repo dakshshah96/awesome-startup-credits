@@ -15,6 +15,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Cloud Computing](#cloud-computing)
 - [Cloud Database](#cloud-database)
 - [Cloud Telephony](#cloud-telephony)
+- [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
@@ -60,6 +61,10 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
 - [MSG91 for Startups [INDIA ONLY]](https://msg91.com/startups/) - A startup for startups. Grow your startup with MSG91's SMS for startups. First few transactional bulk SMS free every month.
 - [Dialpad Fast Start](https://www.dialpad.com/solutions/faststart/) - Dialpad and UberConference for free for life. The Fast Start program provides qualified, VC-backed startups with 10 free lifelong seats for Dialpad Pro and UberConference Business.
+
+### Edge Computing
+
+- [StackPath Propel](https://www.stackpath.com/resources/propel-startup-program/) - Launching a successful startup requires more than hard work and a big idea. You need tangible resources, strong insights, and expert advice. StackPath Propel provides qualifying early-stage companies mentorship and Edge infrastructure credits.
 
 ### Email Delivery
 
