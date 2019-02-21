@@ -46,7 +46,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Microsoft for Startups](https://startups.microsoft.com/en-us/) - Over the next two years, Microsoft has pledged 500 million dollars to support startups with access to technology, community spaces, and sales opportunities.
 - [Create@Alibaba Cloud](https://www.alibabacloud.com/startup) - Create@Alibaba Cloud is a global program focused on accelerating business success for startups.
 - [Oracle Global Startup Ecosystem](https://www.oracle.com/startup/) - The Oracle Global Startup Ecosystem works with startups at various stages, from founders in university-affiliated incubators to early stage to scaleups.
-- [Clever Bootstrap Program](https://www.clever-cloud.com/en/early-stage) - Clever Cloud is an IT Automation Platform focused on developer's efficiency and time to market. The Clever Cloud bootstrap program provides startups training, support and 90% discount for the first three months then 10% discount for life.
+- [Clever Bootstrap Program](https://www.clever-cloud.com/en/early-stage) - Clever Cloud is an IT automation platform focused on developer's efficiency and time to market. The Clever Bootstrap Program provides startups with training, support and a 90% discount for the first three months. Then a 10% discount is applied on your first apps for an unlimited amount of time.
 
 ### Cloud Database
 
