@@ -81,6 +81,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 - [HubSpot](https://www.hubspot.com/startups) - Discover how HubSpot can help your startup grow with their CRM, sales, marketing, and customer service software, plus education and support.
 - [Drift](https://www.drift.com/startups/) - Drift is a leading conversational marketing platform and they're giving 86% off to early stage startups.
+- [CloudApp Elevate](https://www.getcloudapp.com/elevate) - CloudApp offers a better way to acquire, engage and support your customers with quick shareable videos and images using an easy-to-use screen recorder. Get up to $1,000 CloudApp Credit for up to 12 months.
 
 ### Messaging
 
