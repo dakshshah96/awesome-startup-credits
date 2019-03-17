@@ -66,7 +66,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 ### Communication
 
-- [Zulip](https://www.zulipchat.com/) - The world’s most productive team chat. Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones. - Try Zulip as a medium to communicate between your team members for an unlimited period of time.
+- [Zulip](https://www.zulipchat.com/) - The world’s most productive team chat. Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones. - Try Zulip as a medium to communicate between your team members for an unlimited period of time. Zulip can offer $150 off for startups (email support@zulipchat.com to claim).
 
 ### Edge Computing
 
