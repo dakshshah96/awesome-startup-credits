@@ -92,6 +92,8 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
 - [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
 - [MathWorks](https://in.mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price.
+- [Taskade](https://www.taskade.com/v/9orNbs8q3mnMtqPe) - Startups get a year of Taskade Pro for free. Taskade is a team productivity tool for creating structured task lists, collaborative notes, and kanban boards.
+
 
 ## Contributing
 
