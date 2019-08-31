@@ -48,6 +48,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Create@Alibaba Cloud](https://www.alibabacloud.com/startup) - Create@Alibaba Cloud is a global program focused on accelerating business success for startups.
 - [Oracle Global Startup Ecosystem](https://www.oracle.com/startup/) - The Oracle Global Startup Ecosystem works with startups at various stages, from founders in university-affiliated incubators to early stage to scaleups.
 - [Clever Bootstrap Program](https://www.clever-cloud.com/en/early-stage) - Clever Cloud is an IT automation platform focused on developer's efficiency and time to market. The Clever Bootstrap Program provides startups with training, support and a 90% discount for the first three months. Then a 10% discount is applied on your first apps for an unlimited amount of time.
+- [Scaleway (free credit)](https://www.scaleway.com/en/) - Scaleway is an Iliad Group brand supplying a range of pioneering cloud infrastructure covering a full range of services for professionals: public cloud services with Scaleway Elements, private infrastructure with Scaleway Datacenter and bare-metal cloud services with Online by Scaleway. Scaleway provide €500 of free credit* valid until the end of the month to try our cloud products. Sign up now and test for free our products and services, which include Cloud Instances, GPU Instances, Load Balancer and Object Storage.
 
 ### Cloud Database
 
@@ -62,6 +63,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
 - [MSG91 for Startups [INDIA ONLY]](https://msg91.com/startups/) - A startup for startups. Grow your startup with MSG91's SMS for startups. First few transactional bulk SMS free every month.
 - [Dialpad Fast Start](https://www.dialpad.com/solutions/faststart/) - Dialpad and UberConference for free for life. The Fast Start program provides qualified, VC-backed startups with 10 free lifelong seats for Dialpad Pro and UberConference Business.
+
 
 ### Edge Computing
 
