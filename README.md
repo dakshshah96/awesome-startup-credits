@@ -17,6 +17,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Cloud Telephony](#cloud-telephony)
 - [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
+- [Hardware](#hardware)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
 - [Messaging](#messaging)
@@ -36,12 +37,12 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [Zoho One for Startups](https://www.zoho.com/one/startups.html) - Zoho One is a bundle of 40 different applications, for both web and mobile. You can pick any of the apps from this assorted suite, and be business sorted.
 - [Zendesk](https://www.zendesk.com/startups/) - Get a year of Zendesk for free while you get your startup off the ground.
-  
+
 ### Cloud Computing
 
 - [Hatch by DigitalOcean](https://www.digitalocean.com/hatch/) - Hatch helps developers create, launch, and scale their startups. This includes a range of perks to get you started, including 12 months of DigitalOcean credit to easily deploy and scale your infrastructure.
 - [AWS Activate](https://aws.amazon.com/activate/) - The AWS Activate program provides startups with the resources they need to quickly get started on AWS – including credits, training, and support.
-- [Startup with IBM](https://developer.ibm.com/startups/) - With $120,000 in free IBM Cloud credits, Startup with IBM can 
+- [Startup with IBM](https://developer.ibm.com/startups/) - With $120,000 in free IBM Cloud credits, Startup with IBM can
 put your business on the path to transformative growth. Disrupt your industry with IBM.
 - [Google Cloud for Startups](https://cloud.google.com/developers/startups/) - Get up and running quickly and easily with mentorship, training, and Cloud credits from the Google Cloud for Startups program.
 - [Microsoft for Startups](https://startups.microsoft.com/en-us/) - Over the next two years, Microsoft has pledged 500 million dollars to support startups with access to technology, community spaces, and sales opportunities.
@@ -72,6 +73,10 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Postmark](https://postmarkapp.com/for/bootstrapped-startups#pricing) - If you’ve launched your product, are charging for it, and haven’t taken outside investment, contact the Postmark support team and they'll give you $75 account credit to help with your email costs.
 - [SendGrid Accelerate](https://sendgrid.com/accelerate/) - SendGrid Accelerate is a program to help startups succeed. Startups participating in the SendGrid Accelerate program receive 12 months of product credit, access to mentoring, and networking opportunities exclusive to program participants.
 
+### Hardware
+
+- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
+
 ### Payments
 
 - [Razorpay [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments.
@@ -90,7 +95,6 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Miscellaneous
 
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
-- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
 - [MathWorks](https://in.mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price.
 - [Taskade](https://www.taskade.com/v/9orNbs8q3mnMtqPe) - Startups get a year of Taskade Pro for free. Taskade is a team productivity tool for creating structured task lists, collaborative notes, and kanban boards.
 
