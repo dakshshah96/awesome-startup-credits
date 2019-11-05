@@ -54,7 +54,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 ### Cloud Database
 
 - [MongoDB Startup Accelerator](https://www.mongodb.com/startup-accelerator) - The MongoDB Startup Accelerator offers access to MongoDB Atlas, the fully-managed global cloud database, and support to help startups build and scale their businesses.
-- [ScaleGrid Startup Program](https://scalegrid.io/pricing/offers/startup-program.html) - Save up to $30,000 for a year with 90% off on ScaleGrid's MongoDB, Redis, MySQL and PostgreSQL 'Bring Your Own Cloud' database management plans.
+- [ScaleGrid Startup Program](https://scalegrid.io/pricing/offers/startup-program.html) - Save up to $50,000 for a year with 50% off on ScaleGrid's MongoDB, Redis, MySQL and PostgreSQL 'Bring Your Own Cloud' database management plans.
 
 ### Cloud Telephony
 
