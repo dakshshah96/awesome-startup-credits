@@ -64,6 +64,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
 - [MSG91 for Startups [INDIA ONLY]](https://msg91.com/startups/) - A startup for startups. Grow your startup with MSG91's SMS for startups. First few transactional bulk SMS free every month.
 - [Dialpad Fast Start](https://www.dialpad.com/solutions/faststart/) - Dialpad and UberConference for free for life. The Fast Start program provides qualified, VC-backed startups with 10 free lifelong seats for Dialpad Pro and UberConference Business.
+- [Cloudonix FREE Tier](https://cloudonix.io/sign-up) - Cloudonix services, FREE FOR LIFE, up-to 250 calls per month. The Cloudonix FREE tier provides businesses with the ability to connect their website or mobile application, directly to their customer care or sales staff. No phone lines required. No call minutes required. No CREDIT CARD required. Support is provided via a community #slack channel, available at (https://bit.ly/2QTrJUE)
 
 ### Edge Computing
 
