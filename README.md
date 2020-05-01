@@ -83,6 +83,9 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 - [Razorpay [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments.
 - [Chargebee Launch Plan](https://www.chargebee.com/launch/) - Chargebee makes managing subscription billing easier for you. With Chargebee’s Launch Plan, you get your first $50K in invoices for free.
+- [Skrill](https://www.skrill.com/en/) - Skrill has a clean, user-friendly interface. It offers you a prepaid debit card. The fees may be the same as Paypal, but it makes international payments easier since the payments can be sent to the debit card at once. After that, you can use your debit card to withdraw money using an ATM.
+- [TransferWise](https://transferwise.com/in) - Transferwise is a much faster and cheaper solution for international transfers. You can send and receive money on their service without borders. It merely works: clients pay in their currency, and you get the payment right on your bank account within a few hours in the currency of your country. You need to share your phone number and last four digits of your credit card to receive money.
+- [Selz](https://selz.com/) - Selz is a tool that will help you to create your online store or sell goods on social media. It is not a payment system, but an online store builder with ‘drag and drop’ feature and more. Besides that, you can integrate your payment gateway with Selz without other external services. They offer automatic Tax Invoices for your customers.
 
 ### Marketing and Sales
 
