@@ -100,6 +100,8 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [MathWorks](https://in.mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price.
 - [Taskade](https://www.taskade.com/v/9orNbs8q3mnMtqPe) - Startups get a year of Taskade Pro for free. Taskade is a team productivity tool for creating structured task lists, collaborative notes, and kanban boards.
 - [FeedBear](https://www.feedbear.com/early-stage) – The easiest feedback management tool for early-stage startups. Simple, fixed pricing – no matter how big your team gets. Apply now to get 50% off your first year.
+- [Image-Charts](https://www.image-charts.com/) - Easiest way to embed charts in email, pdf reports or bot. 90% discount for the first three months for early stage startups.
+- [Redsmin](https://www.redsmin.com/) - Online monitoring and administration GUI for Redis. 90% discount for the first three months for early stage startups.
 
 
 ## Contributing
