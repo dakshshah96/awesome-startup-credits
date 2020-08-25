@@ -35,7 +35,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ### Business Suites
 
-- [Zoho One for Startups](https://www.zoho.com/one/startups.html) - Zoho One is a bundle of 40 different applications, for both web and mobile. You can pick any of the apps from this assorted suite, and be business sorted.
+- [Zoho One for Startups](https://www.zoho.com/one/startups/) - Zoho One is a bundle of 40 different applications, for both web and mobile. Eligible startups get a one-year free Zoho One subscription.
 - [Zendesk](https://www.zendesk.com/startups/) - Get a year of Zendesk for free while you get your startup off the ground.
 
 ### Cloud Computing
