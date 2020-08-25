@@ -69,6 +69,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [The Intercom Early Stage Program](https://www.intercom.com/early-stage) - Intercom helps you build customer relationships through conversational, messenger-based experiences across the customer journey. Eligible startups get all of Intercom’s Pro products for a flat rate of $49/mo for up to one year.
 - [The GoSquared Early Stage Plan](https://www.gosquared.com/early-stage/) - GoSquared makes elegant software to help you grow your SaaS business. Get all GoSquared features for a fixed, low price for the first year of use.
 - [Zendesk for Startups](https://www.zendesk.com/startups/) - The program provides qualifying net new startup customers access to Zendesk's full family of products at a 100% discount for their first 6 months of subscription of product selection (up to 100 agent seats).
+- [Help Scout for Startups](https://www.helpscout.com/startups/) - Help Scout has everything you need to start talking with customers and growing your business. For eligible startups, your first year with Help Scout is just $50/month.
 
 ### Edge Computing
 
