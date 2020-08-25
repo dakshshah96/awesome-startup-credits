@@ -62,7 +62,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [MyOperator Startup Program [INDIA ONLY]](https://myoperator.co/startup-program) - MyOperator's full-fledged call management ‘startup kit’ comes with products & features that boost your business growth. It helps you manage your business calls and enhances your customer calling experience, at zero cost.
 - [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
 - [MSG91 for Startups [INDIA ONLY]](https://msg91.com/in/startups/) - A complimentary communication API package for every product startup. Get 25,000 SMS credits every month for 6 months.
-- [Dialpad Fast Start](https://www.dialpad.com/solutions/faststart/) - Dialpad and UberConference for free for life. The Fast Start program provides qualified, VC-backed startups with 10 free lifelong seats for Dialpad Pro and UberConference Business.
+- [Dialpad for Startups](https://www.dialpad.com/startups/) - Dialpad for Startups provides qualified startups with 10 free, lifelong seats of Dialpad Talk (business phone lines) and UberConference (video conferencing). Discounts on phone lines continue while video conferencing is always free.
 
 ### Edge Computing
 
