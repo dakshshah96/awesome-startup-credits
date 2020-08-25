@@ -91,6 +91,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Customer Engagement
 
 - [The Intercom Early Stage Program](https://www.intercom.com/early-stage) - Intercom helps you build customer relationships through conversational, messenger-based experiences across the customer journey. Eligible startups get all of Intercom’s Pro products for a flat rate of $49/mo for up to one year.
+- [The GoSquared Early Stage Plan](https://www.gosquared.com/early-stage/) - GoSquared makes elegant software to help you grow your SaaS business. Get all GoSquared features for a fixed, low price for the first year of use.
 
 ### Miscellaneous
 
