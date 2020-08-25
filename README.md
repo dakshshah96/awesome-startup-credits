@@ -53,7 +53,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 ### Cloud Database
 
-- [MongoDB for Startups](https://www.mongodb.com/startups) - The MongoDB for Startups program offers access to MongoDB Atlas, the fully-managed global cloud database, and support to help startups build and scale their businesses.
+- [MongoDB Startup Accelerator](https://www.mongodb.com/startup-accelerator) - The MongoDB Startup Accelerator offers access to MongoDB Atlas, the fully-managed global cloud database, and support to help startups build and scale their businesses.
 - [ScaleGrid Startup Program](https://scalegrid.io/pricing/offers/startup-program.html) - Save up to $50,000 for a year with 50% off on ScaleGrid's MongoDB, Redis, MySQL and PostgreSQL 'Bring Your Own Cloud' database management plans.
 
 ### Cloud Telephony
@@ -86,7 +86,7 @@ put your business on the path to transformative growth. Disrupt your industry wi
 
 ### Marketing and Sales
 
-- [HubSpot](https://www.hubspot.com/startups) - Discover how HubSpot can help your startup grow with their CRM, sales, marketing, and customer service software, plus education and support.
+- [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
 - [Drift](https://www.drift.com/startups/) - Drift is a leading conversational marketing platform and they're giving 86% off to early stage startups.
 - [CloudApp Elevate](https://www.getcloudapp.com/elevate) - CloudApp offers a better way to acquire, engage and support your customers with quick shareable videos and images using an easy-to-use screen recorder. Get up to $1,000 CloudApp Credit for up to 12 months.
 
@@ -99,7 +99,6 @@ put your business on the path to transformative growth. Disrupt your industry wi
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
 - [MathWorks](https://in.mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price.
 - [Taskade](https://www.taskade.com/v/9orNbs8q3mnMtqPe) - Startups get a year of Taskade Pro for free. Taskade is a team productivity tool for creating structured task lists, collaborative notes, and kanban boards.
-- [FeedBear](https://www.feedbear.com/early-stage) – The easiest feedback management tool for early-stage startups. Simple, fixed pricing – no matter how big your team gets. Apply now to get 50% off your first year.
 
 
 ## Contributing
