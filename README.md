@@ -70,6 +70,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [The GoSquared Early Stage Plan](https://www.gosquared.com/early-stage/) - GoSquared makes elegant software to help you grow your SaaS business. Get all GoSquared features for a fixed, low price for the first year of use.
 - [Zendesk for Startups](https://www.zendesk.com/startups/) - The program provides qualifying net new startup customers access to Zendesk's full family of products at a 100% discount for their first 6 months of subscription of product selection (up to 100 agent seats).
 - [Help Scout for Startups](https://www.helpscout.com/startups/) - Help Scout has everything you need to start talking with customers and growing your business. For eligible startups, your first year with Help Scout is just $50/month.
+- [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
 
 ### Edge Computing
 
@@ -93,7 +94,6 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Marketing and Sales
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
-- [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
 
 ### Miscellaneous
 
