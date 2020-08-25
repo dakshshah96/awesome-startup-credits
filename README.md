@@ -87,7 +87,6 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
 - [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
-- [CloudApp Elevate](https://www.getcloudapp.com/elevate) - CloudApp offers a better way to acquire, engage and support your customers with quick shareable videos and images using an easy-to-use screen recorder. Get up to $1,000 CloudApp Credit for up to 12 months.
 
 ### Messaging
 
@@ -100,6 +99,11 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Taskade](https://www.taskade.com/v/9orNbs8q3mnMtqPe) - Startups get a year of Taskade Pro for free. Taskade is a team productivity tool for creating structured task lists, collaborative notes, and kanban boards.
 - [FeedBear](https://www.feedbear.com/early-stage) – The easiest feedback management tool for early-stage startups. Simple, fixed pricing – no matter how big your team gets. Apply now to get 50% off your first year.
 
+## Discontinued
+
+These plans were previously listed but no longer have a website and are assumed to have been discontinued.
+
+- [CloudApp Elevate](https://www.getcloudapp.com/elevate) - CloudApp offers a better way to acquire, engage and support your customers with quick shareable videos and images using an easy-to-use screen recorder. Get up to $1,000 CloudApp Credit for up to 12 months.
 
 ## Contributing
 
