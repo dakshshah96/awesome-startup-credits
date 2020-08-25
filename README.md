@@ -29,7 +29,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ### Analytics
 
-- [Mixpanel for Startups](https://mixpanel.com/startups/) - With access to Mixpanel’s most advanced features, startups can do complex behavioral analysis in seconds and  collaborate across teams to unlock faster growth.
+- [Mixpanel for Startups](https://mixpanel.com/startups/) - One year of Mixpanel, for free. Startups that launched less than two years ago and have less than five million USD in funding receive $50,000 in credits towards the Mixpanel Growth plan for one year.
 - [Segment Startup Program](https://segment.com/industry/startups/) - Eligible startups get full access to Segment's Team Plan (up to $25,000 value) free for up to two years.
 - [Amplitude Startup Scholarship](https://amplitude.com/startups) - The Scholarship includes access to Amplitude’s behavioral analytics platform for 12 months. You'll also receive Amplitude's full suite of Enterprise features, including behavioral cohorting and user path analysis for 90% off the list price.
 
