@@ -66,7 +66,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ### Edge Computing
 
-- [StackPath Propel](https://www.stackpath.com/resources/propel-startup-program/) - Launching a successful startup requires more than hard work and a big idea. You need tangible resources, strong insights, and expert advice. StackPath Propel provides qualifying early-stage companies mentorship and Edge infrastructure credits.
+- [StackPath Propel Startup Program](https://www.stackpath.com/resources/propel-startup-program/) - StackPath Propel provides qualifying early-stage companies with 12 months of free Edge Delivery 2000 credits, tech and business mentoring, and access to exclusive events and meetups.
 
 ### Email Delivery
 
