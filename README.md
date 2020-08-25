@@ -41,7 +41,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Cloud Computing
 
 - [Hatch by DigitalOcean](https://www.digitalocean.com/hatch/) - Hatch helps developers create, launch, and scale their startups. This includes a range of perks to get you started, including 12 months of DigitalOcean credit to easily deploy and scale your infrastructure.
-- [AWS Activate](https://aws.amazon.com/activate/) - The AWS Activate program provides startups with the resources they need to quickly get started on AWS – including credits, training, and support.
+- [AWS Activate](https://aws.amazon.com/activate/) - AWS Activate provides startups with a host of benefits, including AWS credits, technical support and training, to help grow your business.
 - [Startup with IBM](https://developer.ibm.com/startups/) - With $120,000 in free IBM Cloud credits, Startup with IBM can
 put your business on the path to transformative growth. Disrupt your industry with IBM.
 - [Google Cloud for Startups](https://cloud.google.com/developers/startups/) - Get up and running quickly and easily with mentorship, training, and Cloud credits from the Google Cloud for Startups program.
