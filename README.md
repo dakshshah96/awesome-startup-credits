@@ -65,6 +65,11 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [MSG91 for Startups [INDIA ONLY]](https://msg91.com/in/startups/) - A complimentary communication API package for every product startup. Get 25,000 SMS credits every month for 6 months.
 - [Dialpad for Startups](https://www.dialpad.com/startups/) - Dialpad for Startups provides qualified startups with 10 free, lifelong seats of Dialpad Talk (business phone lines) and UberConference (video conferencing). Discounts on phone lines continue while video conferencing is always free.
 
+### Customer Engagement
+
+- [The Intercom Early Stage Program](https://www.intercom.com/early-stage) - Intercom helps you build customer relationships through conversational, messenger-based experiences across the customer journey. Eligible startups get all of Intercom’s Pro products for a flat rate of $49/mo for up to one year.
+- [The GoSquared Early Stage Plan](https://www.gosquared.com/early-stage/) - GoSquared makes elegant software to help you grow your SaaS business. Get all GoSquared features for a fixed, low price for the first year of use.
+
 ### Edge Computing
 
 - [StackPath Propel Startup Program](https://www.stackpath.com/resources/propel-startup-program/) - StackPath Propel provides qualifying early-stage companies with 12 months of free Edge Delivery 2000 credits, tech and business mentoring, and access to exclusive events and meetups.
@@ -88,11 +93,6 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
 - [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
-
-### Customer Engagement
-
-- [The Intercom Early Stage Program](https://www.intercom.com/early-stage) - Intercom helps you build customer relationships through conversational, messenger-based experiences across the customer journey. Eligible startups get all of Intercom’s Pro products for a flat rate of $49/mo for up to one year.
-- [The GoSquared Early Stage Plan](https://www.gosquared.com/early-stage/) - GoSquared makes elegant software to help you grow your SaaS business. Get all GoSquared features for a fixed, low price for the first year of use.
 
 ### Miscellaneous
 
