@@ -75,7 +75,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ### Hardware
 
-- [SOLIDWORKS](https://www.solidworks.com/solution/business-segments/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the SOLIDWORKS for Entrepreneurs program offers software, training, and co-marketing resources at no cost to help you succeed.
+- [SOLIDWORKS 3DEXPERIENCE® Works for Startups Program](https://www.solidworks.com/solution/organization-type/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the 3DEXPERIENCE® Works for Startups program offers software, training, and co-marketing resources at no cost to help you succeed.
 - [Autodesk Fusion 360](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists) - Fusion 360 is free for startups generating less than $100K per year in total revenue or wholly non-commercial hobbyist users.
 
 ### Payments
