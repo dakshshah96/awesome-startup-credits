@@ -88,7 +88,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
 - [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
 
-### Messaging
+### Customer Engagement
 
 - [The Intercom Early Stage Program](https://www.intercom.com/early-stage) - Intercom helps you build customer relationships through conversational, messenger-based experiences across the customer journey. Eligible startups get all of Intercom’s Pro products for a flat rate of $49/mo for up to one year.
 
