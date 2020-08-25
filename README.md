@@ -81,7 +81,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Payments
 
 - [Razorpay Zero Plan [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments. Eligible startups have to pay zero transaction fees for the first 6 months (for a maximum transaction volume of 1 lakh per month).
-- [Chargebee Launch Plan](https://www.chargebee.com/launch/) - Chargebee makes managing subscription billing easier for you. With Chargebee’s Launch Plan, you get your first $50K in invoices for free.
+- [Chargebee Launch Programme](https://www.chargebee.com/launch/) - Chargebee makes managing subscription billing easier for you. With Chargebee’s Launch Plan, you get your first USD 50k in revenue for free.
 
 ### Marketing and Sales
 
