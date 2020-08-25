@@ -52,7 +52,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ### Cloud Database
 
-- [MongoDB for Startups](https://www.mongodb.com/startups) - The MongoDB for Startups program offers access to MongoDB Atlas, the fully-managed global cloud database, and support to help startups build and scale their businesses.
+- [MongoDB for Startups](https://www.mongodb.com/startups) - Spend time growing your startup, not managing your database. Apply for $3,000 in free MongoDB Atlas credits, access to technical advisors, and more.
 - [ScaleGrid Startup Program](https://scalegrid.io/pricing/offers/startup-program.html) - Save up to $50,000 for a year with 50% off on ScaleGrid's MongoDB, Redis, MySQL and PostgreSQL 'Bring Your Own Cloud' database management plans.
 
 ### Cloud Telephony
