@@ -15,12 +15,12 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Cloud Computing](#cloud-computing)
 - [Cloud Database](#cloud-database)
 - [Cloud Telephony](#cloud-telephony)
+- [Customer Engagement](#customer-engagement)
 - [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
 - [Hardware](#hardware)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
-- [Messaging](#messaging)
 - [Miscellaneous](#miscellaneous)
 
 ### Advertising
