@@ -11,6 +11,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [Advertising](#advertising)
 - [Analytics](#analytics)
+- [Bug Tracking](#bug-tracking)
 - [Business Suites](#business-suites)
 - [Cloud Computing](#cloud-computing)
 - [Cloud Database](#cloud-database)
@@ -32,6 +33,10 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Mixpanel for Startups](https://mixpanel.com/startups/) - One year of Mixpanel, for free. Startups that launched less than two years ago and have less than five million USD in funding receive $50,000 in credits towards the Mixpanel Growth plan for one year.
 - [Segment Startup Program](https://segment.com/industry/startups/) - Eligible startups get full access to Segment's Team Plan (up to $25,000 value) free for up to two years.
 - [Amplitude Startup Scholarship](https://amplitude.com/startups) - The Amplitude Startup Scholarship provides one year of Amplitude's paid Growth plan features for free to eligible startups.
+
+### Bug Tracking
+
+- [Instabug for Startups](https://instabug.com/startups) - Over 25,000 innovative mobile teams rely on Instabug's Real-Time Contextual Insights to build better apps and we want to support yours as well. Eligible startups can receive a discount on all our plans.
 
 ### Business Suites
 
