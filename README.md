@@ -96,7 +96,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
 - [MATLAB and Simulink for Startups](https://mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price along with other exclusive benefits.
-- [FeedBear](https://www.feedbear.com/early-stage) – The easiest feedback management tool for early-stage startups. Simple, fixed pricing – no matter how big your team gets. Apply now to get 50% off your first year.
+- [FeedBear](https://www.feedbear.com/early-stage) – Affordable feedback management for early-stage startups. Eligible startups get all FeedBear features for just $29/mo for up to one year.
 
 ## Discontinued
 
