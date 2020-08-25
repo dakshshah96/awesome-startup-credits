@@ -90,7 +90,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 ### Messaging
 
-- [Intercom for Early Stage](https://www.intercom.com/early-stage) - Intercom’s user-friendly products help you acquire, onboard, engage and support your customers in a personal way. Eligible companies get all of Intercom's pro products for a flat rate of $49 a month for up to one year.
+- [The Intercom Early Stage Program](https://www.intercom.com/early-stage) - Intercom helps you build customer relationships through conversational, messenger-based experiences across the customer journey. Eligible startups get all of Intercom’s Pro products for a flat rate of $49/mo for up to one year.
 
 ### Miscellaneous
 
