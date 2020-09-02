@@ -53,6 +53,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Oracle for Startups](https://www.oracle.com/startup/) - Oracle is delivering a unique acceleration program that enables mutually beneficial business-building partnerships for startups, their customers, and Oracle. It starts with free cloud and expands to a rich collaboration that brings opportunities to engage with Oracle’s vast network of mentors, product experts, and customers.
 - [Clever Bootstrap Program](https://www.clever-cloud.com/en/early-stage) - Clever Cloud is an IT Automation platform. They manage all the ops work while you focus on your business value. The Clever Bootstrap Program provides startups with 90% off on the first three months. Then a 10% discount is applied on your first apps for an unlimited amount of time.
 - [Heroku for Startups Program](https://www.heroku.com/accelerate) - The Heroku for Startups Program provides teams with the resources they need to quickly get started on Heroku—including platform credits, technical support, and networking.
+- [Scaleway Startup Program](https://www.scaleway.com/en/startup-program/) - The Scaleway Startup Program is a time-limited cloud computing partnership program designed for startups. Benefits include access to public cloud infrastructure combined with technical assistance, resources, advisory and advertising.
 
 ### Cloud Database
 
