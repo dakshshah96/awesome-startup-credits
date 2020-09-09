@@ -68,6 +68,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Exotel for Startups [INDIA ONLY]](https://exotel.com/cloud-telephony-for-startups/) - Exotel for Startups is a special account for startups that gives you access to all of Exotel’s features.
 - [MSG91 for Startups [INDIA ONLY]](https://msg91.com/in/startups/) - A complimentary communication API package for every product startup. Get 25,000 SMS credits every month for 6 months.
 - [Dialpad for Startups](https://www.dialpad.com/startups/) - Dialpad for Startups provides qualified startups with 10 free, lifelong seats of Dialpad Talk (business phone lines) and UberConference (video conferencing). Discounts on phone lines continue while video conferencing is always free.
+- [Agora for Startups](https://www.agora.io/en/agora-for-startups/) - The Agora for Startups program aims to support and nurture entrepreneurs and developers who are incorporating live voice and video into their applications as they work to make their fresh ideas and concepts a reality. Startups accepted into the program gain access to Agora’s cutting-edge real-time engagement solutions, a dedicated team of product experts, and generous free minutes that allow startups to scale up with minimal or no cost.
+
 
 ### Customer Engagement
 
