@@ -104,7 +104,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
 
 ### Miscellaneous
-
+- [Abstract API for Startups](https://www.abstractapi.com/abstract-for-startups): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more). $2,500 free credits and continued discounts for new startups.
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
 - [MATLAB and Simulink for Startups](https://mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price along with other exclusive benefits.
 - [FeedBear](https://www.feedbear.com/early-stage) – Affordable feedback management for early-stage startups. Eligible startups get all FeedBear features for just $29/mo for up to one year.
