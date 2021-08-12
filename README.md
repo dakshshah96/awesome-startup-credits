@@ -41,6 +41,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [Zoho One for Startups](https://www.zoho.com/one/startups/) - Zoho One is a bundle of 40 different applications, for both web and mobile. Eligible startups get a one-year free Zoho One subscription.
 - [Freshworks for Startups](https://www.freshworks.com/company/partners/startup-program/) - The Freshworks platform enables developers, partners, and customers to customize, integrate, and automate business workflows for support, CRM, and IT use cases. Claim up to $10000 credits on their intuitive, scalable, and affordable software suite.
+- [DeepSource Startup Program](https://deepsource.io/startup-program/) - DeepSource Startup Program provides early-stage startups easy access to the best-in-class developer tools and software-building infrastructure that they can use to collaborate and build software better.
 
 ### Cloud Computing
 
