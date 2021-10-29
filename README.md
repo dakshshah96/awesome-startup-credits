@@ -125,10 +125,4 @@ Please feel free to make a PR if you know of any other awesome companies which o
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Daksh Shah](https://daksh.me) has waived all copyright and related or neighboring rights to this work.
-
-## Sponsor
-
-![Scheduling API](https://user-images.githubusercontent.com/9488406/125080407-0dd25780-e0c5-11eb-9f70-ef958968674a.png)
-
-This project is sponsored by **Spurwing**, where their API makes adding scheduling quick, reliable and scalable. Use Spurwing to build and integrate scheduling, booking & calendar features in your project. Read more about Spurwing's [**Scheduling API**](https://www.spurwing.io/).
+To the extent possible under law, [Daksh Shah](https://daksh.me) has waived all copyright and related or neighboring rights to this work.       
