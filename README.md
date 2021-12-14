@@ -109,6 +109,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [MATLAB and Simulink for Startups](https://mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price along with other exclusive benefits.
 - [FeedBear](https://www.feedbear.com/early-stage) – Affordable feedback management for early-stage startups. Eligible startups get all FeedBear features for just $29/mo for up to one year.
 - [Remote for Startups](https://remote.com/startups) - The Remote for Startups Program is designed to help you legally and compliantly employ global talent with world-class payroll, tax, benefits, and compliance solutions. Get access to the same powerful platform, HR experts, and localized legal support, at a fraction of the cost.
+- [Pareto Security for Startups](https://paretosecurity.com/teams) - Automatically audit your team's Macs for basic security hygiene using a privacy-conscious Menu Bar app. Use `STARTUP` at checkout. 
 
 ## Discontinued
 
