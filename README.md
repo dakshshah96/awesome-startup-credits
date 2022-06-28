@@ -21,6 +21,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Hardware](#hardware)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
+- [Video](#video)
 - [Miscellaneous](#miscellaneous)
 
 ### Advertising
@@ -103,6 +104,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Marketing and Sales
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
+
+### Video
 
 ### Miscellaneous
 
