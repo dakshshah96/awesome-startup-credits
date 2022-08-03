@@ -106,7 +106,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
 
 ### Video
-- [Gumlet](https://www.gumlet.com/startups/) - Gumlet is all-in-one video infrastructure product to help you store, transcode and stream video files. Eligible startups get USD 10,000 credits (valid for 12 months) for Gumlet's Growth plan.
+
+- [Gumlet](https://www.gumlet.com/startups/) - Gumlet is an all-in-one video infrastructure product that helps you store, transcode, and stream video files. Eligible startups get $10,000 in credits (valid for 12 months) for Gumlet's Growth plan.
 
 ### Miscellaneous
 
