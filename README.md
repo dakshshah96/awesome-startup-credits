@@ -37,6 +37,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Bug Tracking
 
 - [Instabug for Startups](https://instabug.com/startups) - Over 25,000 innovative mobile teams rely on Instabug's Real-Time Contextual Insights to build better apps and we want to support yours as well. Eligible startups can receive a discount on all our plans.
+- [Zenduty for Startups](https://www.zenduty.com/early-stage-startup-program/) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle. Leverage credits worth $3000 to ensure your team can prioritize uptime effortlessly and effectively.
+
 
 ### Business Suites
 
