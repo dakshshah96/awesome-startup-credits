@@ -116,7 +116,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Shotstack Startup Program](https://shotstack.io/solutions/startups/) - Shotstack enables startups to build innovative video applications with their cloud-based video-editing API infrastructure. Eligible startups get $5,000 in Shotstack credits (valid for 12 months), technical support, and a community to support their growth.
 
 ### Miscellaneous
-
+- [Abstract API for Startups](https://www.abstractapi.com/abstract-for-startups): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more). $2,500 free credits and continued discounts for new startups.
 - [Esri Startup Program](https://www.esri.com/en-us/about/esri-partner-network/our-partners/esri-startup-program) - The Esri Startup Program is a global three-year program that helps startups build mapping and location intelligence into their products and businesses.
 - [MATLAB and Simulink for Startups](https://mathworks.com/products/startups.html) - Eligible early stage technology startups can get MATLAB, Simulink, and more than 90 industry-specific toolboxes at a startup-friendly price along with other exclusive benefits.
 - [FeedBear](https://www.feedbear.com/early-stage) – Affordable feedback management for early-stage startups. Eligible startups get all FeedBear features for just $29/mo for up to one year.
