@@ -108,7 +108,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Video
 
 - [Gumlet](https://www.gumlet.com/startups/) - Gumlet is an all-in-one video infrastructure product that helps you store, transcode, and stream video files. Eligible startups get $10,000 in credits (valid for 12 months) for Gumlet's Growth plan.
-- [Shotstack Startup Program](https://shotstack.io/solutions/startups/) - Shotstack enables Startups to build innovative video applications with its cloud-based video-editing API infrastructure. Eligible startups get $10,000 Shotstack credits (valid for 12 months), resources, and support.
+- [Shotstack Startup Program](https://shotstack.io/solutions/startups/) - Shotstack enables startups to build innovative video applications with their cloud-based video-editing API infrastructure. Eligible startups get $5,000 in Shotstack credits (valid for 12 months), technical support, and a community to support their growth.
 
 ### Miscellaneous
 
