@@ -19,7 +19,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
 - [Hardware](#hardware)
-- [Incident Management] (#incident-management)
+- [Incident Management](#incident-management)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
 - [Video](#video)
