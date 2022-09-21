@@ -19,6 +19,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
 - [Hardware](#hardware)
+- [Incident Management] (#incident-management)
 - [Payments](#payments)
 - [Marketing and Sales](#marketing-and-sales)
 - [Video](#video)
@@ -37,8 +38,6 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Bug Tracking
 
 - [Instabug for Startups](https://instabug.com/startups) - Over 25,000 innovative mobile teams rely on Instabug's Real-Time Contextual Insights to build better apps and we want to support yours as well. Eligible startups can receive a discount on all our plans.
-- [Zenduty for Startups](https://www.zenduty.com/early-stage-startup-program/) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle. Leverage credits worth $3000 to ensure your team can prioritize uptime effortlessly and effectively.
-
 
 ### Business Suites
 
@@ -97,6 +96,10 @@ A collection of awesome companies offering free/discounted plans for eligible st
 
 - [SOLIDWORKS 3DEXPERIENCE® Works for Startups Program](https://www.solidworks.com/solution/organization-type/entrepreneurs-startups) - For early-stage hardware startups that meet the eligibility criteria, the 3DEXPERIENCE® Works for Startups program offers software, training, and co-marketing resources at no cost to help you succeed.
 - [Autodesk Fusion 360 for Startups](https://www.autodesk.in/products/fusion-360/startups) - Fusion 360 for startups is eligible for venture-backed, angel-backed or bootstrap startups that are less than three years old, have 10 or fewer employees and generate less than $100,000 USD in gross annual revenue.
+
+### Incident Management
+
+- [Zenduty Early Stage Startup Program](https://www.zenduty.com/early-stage-startup-program/) - Zenduty is an incident management platform which provides end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle. Eligible startups get $3,000 in credits valid for 1 year.
 
 ### Payments
 
