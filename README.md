@@ -109,6 +109,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Marketing and Sales
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
+- [FormNX for Startups](https://formnx.com/register?package_id=startup) - It provides lifetime free unlimited forms & unlimited submission to startups to help build them forms like feedback Forms, Registration Forms, contact forms, Inquiry, Consent, or any other types of forms at a 50% discounted price Lifetime.
 
 ### Video
 
