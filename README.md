@@ -57,6 +57,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Clever Bootstrap Program](https://www.clever-cloud.com/en/early-stage) - Clever Cloud is an IT Automation platform. They manage all the ops work while you focus on your business value. The Clever Bootstrap Program provides startups with 90% off on the first three months. Then a 10% discount is applied on your first apps for an unlimited amount of time.
 - [Heroku for Startups Program](https://www.heroku.com/accelerate) - The Heroku for Startups Program provides teams with the resources they need to quickly get started on Heroku—including platform credits, technical support, and networking.
 - [Scaleway Startup Program](https://www.scaleway.com/en/startup-program/) - The Scaleway Startup Program is a time-limited cloud computing partnership program designed for startups. Benefits include access to public cloud infrastructure combined with technical assistance, resources, advisory and advertising.
+- [ImageKit.io Startup Program](https://imagekit.io/startup-program/) - ImageKit offers real-time image and video optimizations, transformations, and a complete digital asset storage and management solution that will help developers, designers, and marketers deliver better visual experiences on web and apps. The Startup Program offers custom pricing plans, credits for the first year and enterprise-grade support to startups.
 
 ### Cloud Database
 
