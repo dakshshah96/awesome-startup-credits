@@ -38,6 +38,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Bug Tracking
 
 - [Instabug for Startups](https://instabug.com/startups) - Over 25,000 innovative mobile teams rely on Instabug's Real-Time Contextual Insights to build better apps and we want to support yours as well. Eligible startups can receive a discount on all our plans.
+- [Commented for Startups](https://www.commented.io/startup-program) - Empower your startup’s success with our new Startup Accelerator Plan! Sign up by the end of this year for a 30% discount on a full year of Commented Business Plan benefits.
 
 ### Business Suites
 
