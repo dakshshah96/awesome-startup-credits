@@ -109,6 +109,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Marketing and Sales
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
+- [FormNX](https://formnx.com/contact) - No-Code Form builder. Quickly create forms for surveys, waiting lists, customer feedback, job hiring & lot more without writing code. Write to us to get a 50% discount.
 
 ### Video
 
