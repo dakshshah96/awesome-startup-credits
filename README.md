@@ -106,6 +106,10 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Razorpay Zero Plan [INDIA ONLY]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform) - Razorpay presents the ideal plan for startups and budding businesses to kickstart their online payments. Eligible startups have to pay zero transaction fees for the first 6 months (for a maximum transaction volume of 1 lakh per month).
 - [Chargebee Launch Programme](https://www.chargebee.com/launch/) - Chargebee makes managing subscription billing easier for you. With Chargebee’s Launch Plan, you get your first USD 50k in revenue for free.
 
+### Platform
+
+- [Cloud-Agnostic Platform for Startups](https://kubeflex.io) - KubeFlex provides cloud-agnostic, cloud-native technology platforms for startups—at no cost.
+
 ### Marketing and Sales
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
