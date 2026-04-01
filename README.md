@@ -16,6 +16,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Cloud Database](#cloud-database)
 - [Cloud Telephony](#cloud-telephony)
 - [Customer Engagement](#customer-engagement)
+- [Developer Tools](#developer-tools)
 - [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
 - [Hardware](#hardware)
@@ -82,6 +83,16 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Help Scout for Startups](https://www.helpscout.com/startups/) - Help Scout has everything you need to start talking with customers and growing your business. For eligible startups, your first year with Help Scout is just $50/month.
 - [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
 - [Crisp Startup Program](https://help.crisp.chat/en/article/how-to-apply-to-startup-program-lyfxt4/) - Customers use Crisp to provide a modern customers lifecycle experience for potential customers, generate more qualified leads, enhance customers help, improve customers satisfaction leading to a global increase in the revenue.
+
+### Developer Tools
+
+- [QRMint](https://qrmint.com) - Free styled QR code generation API with no API key required. Generate customizable QR codes for your startup instantly.
+- [LinkShrink](https://linkshrink.softvoyagers.com) - Free URL shortener API with no API key required. Shorten and manage links programmatically for your applications.
+- [LinkMeta](https://linkmeta.softvoyagers.com) - Free link metadata extraction API with no API key required. Extract Open Graph, meta tags, and page details from any URL.
+- [PageShot](https://pageshot.softvoyagers.com) - Free website screenshot API with no API key required. Capture full-page or viewport screenshots programmatically.
+- [PDFSpark](https://pdfspark.softvoyagers.com) - Free HTML to PDF conversion API with no API key required. Convert web pages and HTML content to PDF documents.
+- [OGForge](https://ogforge.softvoyagers.com) - Free Open Graph image generator API with no API key required. Create dynamic OG images for social media sharing.
+- [FreeKit](https://freekit.dev) - All-in-one free developer API toolkit with no API key required. Access QR codes, URL shortening, screenshots, PDF generation, and more from a single platform.
 
 ### Edge Computing
 
