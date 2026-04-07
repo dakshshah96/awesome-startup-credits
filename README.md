@@ -109,6 +109,8 @@ A collection of awesome companies offering free/discounted plans for eligible st
 ### Marketing and Sales
 
 - [HubSpot for Startups](https://www.hubspot.com/startups) - Startups using the HubSpot Growth Platform acquire and retain more customers with HubSpot’s software, educational resources, and robust integrations. All at startup-friendly pricing up to 90% off.
+- [Overloop CLI](https://agent.overloop.ai) - AI-powered outbound engine for startups. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, and manage conversations from the terminal. JSON output, agent-native. Plans from $69/mo.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring CLI for startups. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output for agent pipelines.
 
 ### Video
 
