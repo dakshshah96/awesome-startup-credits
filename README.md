@@ -122,6 +122,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [FeedBear](https://www.feedbear.com/early-stage) – Affordable feedback management for early-stage startups. Eligible startups get all FeedBear features for just $29/mo for up to one year.
 - [Remote for Startups](https://remote.com/startups) - The Remote for Startups Program is designed to help you legally and compliantly employ global talent with world-class payroll, tax, benefits, and compliance solutions. Get access to the same powerful platform, HR experts, and localized legal support, at a fraction of the cost.
 - [Pareto Security](https://paretosecurity.com/pricing) - A suite of essential macOS security apps for small businesses. Non-invasive alternative to corporate MDM and RMM solutions for small businesses that care about security but know it doesn't have to be invasive for their team members. Use the coupon code `STARTUP` at checkout.
+- [ElevenLabs Grants](https://elevenlabs.io/grants) - Startups with fewer than 25 employees get 12 months of free access to ElevenLabs voice AI, including 33 million characters of text to speech and conversational agent usage.
 
 ## Discontinued
 
