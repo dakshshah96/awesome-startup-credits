@@ -16,6 +16,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Cloud Database](#cloud-database)
 - [Cloud Telephony](#cloud-telephony)
 - [Customer Engagement](#customer-engagement)
+- [Data Movement](#data-movement)
 - [Edge Computing](#edge-computing)
 - [Email Delivery](#email-delivery)
 - [Hardware](#hardware)
@@ -82,6 +83,10 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Help Scout for Startups](https://www.helpscout.com/startups/) - Help Scout has everything you need to start talking with customers and growing your business. For eligible startups, your first year with Help Scout is just $50/month.
 - [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
 - [Crisp Startup Program](https://help.crisp.chat/en/article/how-to-apply-to-startup-program-lyfxt4/) - Customers use Crisp to provide a modern customers lifecycle experience for potential customers, generate more qualified leads, enhance customers help, improve customers satisfaction leading to a global increase in the revenue.
+
+### Data Movement
+
+- [Estuary for Startups](https://estuary.dev/startup/) - Move data from where it lives to where you want it to go with real-time or batch pipelines, automatic schema evolution, and custom transformations. The Estuary for Startups program grants $2,000 in credits for data movement over a year. Startups are eligible if they've raised <$5M in funding, no accelerator affiliation required.
 
 ### Edge Computing
 
