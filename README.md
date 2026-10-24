@@ -34,6 +34,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Mixpanel for Startups](https://mixpanel.com/startups/) - One year of Mixpanel, for free. Startups that launched less than two years ago and have less than five million USD in funding receive $50,000 in credits towards the Mixpanel Growth plan for one year.
 - [Segment Startup Program](https://segment.com/industry/startups/) - Eligible startups get full access to Segment's Team Plan (up to $25,000 value) free for up to two years.
 - [Amplitude Startup Scholarship](https://amplitude.com/startups) - The Amplitude Startup Scholarship provides one year of Amplitude's paid Growth plan features for free to eligible startups.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ### Bug Tracking
 
