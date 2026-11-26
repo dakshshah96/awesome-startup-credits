@@ -82,6 +82,7 @@ A collection of awesome companies offering free/discounted plans for eligible st
 - [Help Scout for Startups](https://www.helpscout.com/startups/) - Help Scout has everything you need to start talking with customers and growing your business. For eligible startups, your first year with Help Scout is just $50/month.
 - [Drift for Early Stage Startups](https://www.drift.com/startups/) - Using Drift will give you an edge and 10X your business by allowing you to speed up your sales cycles, increase your pipeline, and more. Get 93% off of the Essential Plan for 1 year.
 - [Crisp Startup Program](https://help.crisp.chat/en/article/how-to-apply-to-startup-program-lyfxt4/) - Customers use Crisp to provide a modern customers lifecycle experience for potential customers, generate more qualified leads, enhance customers help, improve customers satisfaction leading to a global increase in the revenue.
+- [Lorikeet for Startups](https://www.lorikeetcx.ai/startups) - AI customer support for chat, email, voice and SMS, with a free shared inbox and help centre. Startups get US$500 in AI credits with code STARTUPS500.
 
 ### Edge Computing
 
